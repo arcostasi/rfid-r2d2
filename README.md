@@ -7,6 +7,7 @@ See the [circuit](https://circuits.io/circuits/3090411-rfid-r2d2).
 
 ## Components
 
+```bash
 1 Arduino UNO or Arduino MEGA
 1 RFID-RC522
 1 RELAY BOARD BTE13 5V
@@ -14,6 +15,7 @@ See the [circuit](https://circuits.io/circuits/3090411-rfid-r2d2).
 1 BUZZER
 3 RESISTOR 330R
 AND SOME WIRES
+```
 
 ## Pins
 
